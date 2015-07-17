@@ -1,5 +1,5 @@
 {
-  "name": "requ",
+  "name": "requ.js",
   "version": "1.0.0",
   "description": "Require files relative to your project root.",
   "main": "index.js",
