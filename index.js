@@ -6,6 +6,4 @@ var requ = function(module) {
 
 requ.root = path.normalize(path.join(__dirname, '..', '..'));
 
-global.requ = requ;
-
 module.exports = requ;
