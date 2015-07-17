@@ -1,0 +1,15 @@
+{
+  "name": "requ",
+  "version": "1.0.0",
+  "description": "Require files relative to your project root.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "require",
+    "relative"
+  ],
+  "author": "UJLAKY Tibor <tujlaky@gmail.com>",
+  "license": "ISC"
+}
